@@ -1,0 +1,4 @@
+Flask==2.2.3
+Werkzeug==2.2.3
+shutil
+spotdl==3.2.0
