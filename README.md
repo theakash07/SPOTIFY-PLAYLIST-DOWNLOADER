@@ -2,7 +2,7 @@
 
 A simple Flask-based web application that allows users to download Spotify playlists as a ZIP file of songs. The application uses `spotdl` to handle the downloading process and provides a clean and interactive interface.
 
-![Spotify Playlist Downloader](https://via.placeholder.com/1200x400)  
+![Spotify Playlist Downloader](https://github.com/theakash07/SPOTIFY-PLAYLIST-DOWNLOADER/blob/main/Screenshot%202024-12-27%20100834.png)  
 
 ## Features
 - Input Spotify playlist URL to download the entire playlist.
